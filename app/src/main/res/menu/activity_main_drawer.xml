@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_find_people"
+            android:icon="@drawable/find_person"
+            android:title="Добавить водителя" />
+        <item
+            android:id="@+id/nav_add_people"
+            android:icon="@drawable/add_person"
+            android:title="Запросы водителей" />
+        <item
+            android:id="@+id/nav_statistics"
+            android:icon="@drawable/statistics2new"
+            android:title="Статистика поездок" />
+    </group>
+</menu>

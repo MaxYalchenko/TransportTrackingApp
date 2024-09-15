@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114935474918",
+    "project_id": "newtrackingappjava-315bd",
+    "storage_bucket": "newtrackingappjava-315bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114935474918:android:efa3ccb4d7fcaa415be927",
+        "android_client_info": {
+          "package_name": "com.example.newtrackingappjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114935474918-sg4ud81327ktcls2ip15id0ebuh02nig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newtrackingappjava",
+            "certificate_hash": "74ed5af84e768558ee82be99e86ea1330d6e21ee"
+          }
+        },
+        {
+          "client_id": "114935474918-8sr2pqtgo41eh6d6squpceovnjrl9fkm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1HXG581Lq2FUZ_t7swlwJdXzpmf7cCBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114935474918-8qp05ufgmac9ik46s2effp259bqgbg9u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
